@@ -13,5 +13,5 @@ This a docker image that includes PHP 7.2 FPM, nginx and MySQL 5.7, it was desin
     ```
 5. Turn on the container
     ```
-    docker-compose build
+    docker-compose up
     ```
